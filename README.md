@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siddhant Jain
 - 👀 I’m interested in Blockchain Development, Frontend Development
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Blockchain Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jsiddhant010@gmail.com
 
